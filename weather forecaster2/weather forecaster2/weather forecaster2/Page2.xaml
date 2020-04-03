@@ -19,7 +19,6 @@
 			<Label TextColor="DarkBlue" Text="775-791" FontSize="Medium" VerticalOptions="StartAndExpand" HorizontalOptions="Center" ></Label>
 
 
-
 			<Label  Text="тут данные тянутся по api" FontSize="Small" ></Label>
 		</StackLayout>
 	</ContentPage.Content>

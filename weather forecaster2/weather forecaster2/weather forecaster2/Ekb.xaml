@@ -11,7 +11,6 @@
 			<Label x:Name="Label1" Text="Погода в Екатеринбурге" FontSize="Large"></Label>
 
 
-
 		</StackLayout>
 	</ContentPage.Content>
 </ContentPage>

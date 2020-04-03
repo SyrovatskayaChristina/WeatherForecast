@@ -16,8 +16,6 @@
 			<Label TextColor="DarkBlue" Text="Давление, мм рт. ст.:" FontSize="Medium" VerticalOptions="StartAndExpand" HorizontalOptions="Center" ></Label>
 			<Label TextColor="DarkBlue" Text="745-761" FontSize="Medium" VerticalOptions="StartAndExpand" HorizontalOptions="Center" ></Label>
 
-
-
 			<Label  Text="тут данные тянутся по api" FontSize="Small" ></Label>
 
 		</StackLayout>
