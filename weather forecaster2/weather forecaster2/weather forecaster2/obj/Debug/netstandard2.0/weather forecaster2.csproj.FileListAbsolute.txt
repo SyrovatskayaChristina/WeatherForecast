@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\weather forecaster2\weather forecaster2\weather forecaster2\bin\Debug\netstandard2.0\weather forecaster2.deps.json
+C:\Users\User\source\repos\weather forecaster2\weather forecaster2\weather forecaster2\bin\Debug\netstandard2.0\weather forecaster2.dll
+C:\Users\User\source\repos\weather forecaster2\weather forecaster2\weather forecaster2\bin\Debug\netstandard2.0\ref\weather forecaster2.dll
+C:\Users\User\source\repos\weather forecaster2\weather forecaster2\weather forecaster2\bin\Debug\netstandard2.0\weather forecaster2.pdb
+C:\Users\User\source\repos\weather forecaster2\weather forecaster2\weather forecaster2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\User\source\repos\weather forecaster2\weather forecaster2\weather forecaster2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\User\source\repos\weather forecaster2\weather forecaster2\weather forecaster2\obj\Debug\netstandard2.0\weather forecaster2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\weather forecaster2\weather forecaster2\weather forecaster2\obj\Debug\netstandard2.0\weather forecaster2.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\weather forecaster2\weather forecaster2\weather forecaster2\obj\Debug\netstandard2.0\weather forecaster2.AssemblyInfo.cs
+C:\Users\User\source\repos\weather forecaster2\weather forecaster2\weather forecaster2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\User\source\repos\weather forecaster2\weather forecaster2\weather forecaster2\obj\Debug\netstandard2.0\weather forecaster2.dll
+C:\Users\User\source\repos\weather forecaster2\weather forecaster2\weather forecaster2\obj\Debug\netstandard2.0\ref\weather forecaster2.dll
+C:\Users\User\source\repos\weather forecaster2\weather forecaster2\weather forecaster2\obj\Debug\netstandard2.0\weather forecaster2.pdb
+C:\Users\User\source\repos\weather forecaster2\weather forecaster2\weather forecaster2\obj\Debug\netstandard2.0\weather forecaster2.csprojAssemblyReference.cache

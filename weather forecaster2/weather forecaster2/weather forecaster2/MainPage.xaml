@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MasterDetailPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="weatherForecaster2.MainPage" BackgroundImageSource=""
+				  Title="MasterApp">
+	<MasterDetailPage.Master>
+		<ContentPage Title="Master" BackgroundColor="AliceBlue">
+			<ContentPage.Content>
+				<StackLayout >
+					<StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand">
+						<Image WidthRequest="65" HeightRequest="65" Aspect="AspectFit" Source="cloud.jpg" VerticalOptions="Center"></Image>
+						<Label Text="Weather" TextColor="Black" FontSize="Large"  HorizontalOptions="StartAndExpand" VerticalOptions="Center"></Label>
+					</StackLayout>
+					<StackLayout HorizontalOptions="FillAndExpand">
+						<Button Text="Санкт-Петербург" Clicked="ButtonClickSpb" HorizontalOptions="FillAndExpand"></Button>
+						<Button Text="Москва" Clicked="ButtonClickMsc"></Button>
+						<Button Text="Мурманск" Clicked="ButtonClickMrm"></Button>
+						<Button Text="Екатеринбург" Clicked="ButtonClickEkb"></Button>
+
+						<!--<Image WidthRequest="24" HeightRequest="24" Aspect="AspectFit" Source=""-->
+					</StackLayout>
+				</StackLayout>
+			</ContentPage.Content>
+		</ContentPage>
+		
+	</MasterDetailPage.Master>
+
+	<MasterDetailPage.Detail>
+		<ContentPage >
+			<ContentPage.Content>
+				<Label Text="DetailPage" VerticalOptions="Center" HorizontalOptions="Center"></Label>
+			</ContentPage.Content>
+		</ContentPage>
+	</MasterDetailPage.Detail>
+
+	
+</MasterDetailPage> 
